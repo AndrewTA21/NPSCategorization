@@ -133,5 +133,8 @@
     "dgn": "dengan",
     "perbuln": "perbulan",
     "klau": "kalau",
-    "nasabar": "nasabah"
+    "nasabar": "nasabah",
+    "mbanking": "mobile banking",
+    "debet": "debit",
+    "merekomd": "rekomendasi"
 }
